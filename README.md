@@ -1,4 +1,4 @@
-# Elden Ring API - Boss Database 🏰⚔️
+# Elden Ring API - Boss Database 🏰⚔️(AINDA EM DESENVOLVIMENTO)
 
 Uma API RESTful para gerenciar informações sobre bosses de Elden Ring, construída com Node.js, Express e MySQL.
 
