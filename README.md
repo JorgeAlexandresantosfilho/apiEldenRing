@@ -76,7 +76,7 @@ Retorna todos os bosses cadastrados
 ```json
 [
   {
-    "id_Boss": 1,
+    "Id_Boss": 1,
     "Name_Boss": "Margit, the Fell Omen",
     "Drops": "Talisman Pouch, 12,000 Runes",
     "Image": "https://example.com/images/margit.jpg",
@@ -84,7 +84,7 @@ Retorna todos os bosses cadastrados
     "HealthPoints": 4174
   },
   {
-    "id_Boss": 2,
+    "Id_Boss": 2,
     "Name_Boss": "Godrick the Grafted",
     "Drops": "Godrick's Great Rune, Remembrance of the Grafted",
     "Image": "https://example.com/images/godrick.jpg",
